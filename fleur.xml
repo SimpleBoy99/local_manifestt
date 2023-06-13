@@ -13,4 +13,4 @@
 <!-- Packages -->
 <project path="packages/apps/GCamGOPrebuilt" name="ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt" remote="ghub" revision="arrow-13.1" />
 
-<//manifest>
+</manifest>
