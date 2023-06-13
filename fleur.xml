@@ -9,7 +9,7 @@
 <!-- VT IMS-->
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
 <!-- FW -->
-<project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.8.0.SKEMIXM" /> 
+<project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.3.0.TKEMIXM" /> 
 <!-- Packages -->
 <project path="packages/apps/GCamGOPrebuilt" name="ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt" remote="ghub" revision="arrow-13.1" />
 <project path="vendor/PixelLauncher" name="StudioKeys/vendor_PixelLauncher" remote="ghub" revision="13" />
