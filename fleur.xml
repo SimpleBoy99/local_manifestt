@@ -11,4 +11,5 @@
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.3.0.TKEMIXM" /> 
 
+
 </manifest>
