@@ -10,6 +10,7 @@
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM" /> 
-
+<!-- MI Parts -->
+<project path="device/xiaomi/fleur/MiParts" name="jacksproject/device_xiaomi_onclite_MiParts" remote="ghub" revision="main" />
 
 </manifest>
