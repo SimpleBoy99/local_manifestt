@@ -3,14 +3,10 @@
 
 <remote name="ghub"
         fetch="https://github.com" />
-<remote name="gitlab"
-        fetch="https://gitlab.com" />
 
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="Superior"/>
 <!-- VT IMS-->
 <project path="vendor/xiaomi/fleur" name="RT1648/vendor_xiaomi_ims-fleur" remote="ghub" revision="twelve" />
-<!-- MIUICAM -->
-<project path="vendor/xiaomi/miuicamera" name="ItzDFPlayer/vendor_davinci-miuicamera" remote="gitlab" revision="leica+miui" />
-        
+
 </manifest>
